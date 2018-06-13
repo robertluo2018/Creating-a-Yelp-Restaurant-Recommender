@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Creating a Yelp Restaurant Recommender
-description: Robert Luo, \n Northwestern University
+description: Machine Learning (EECS 349), Northwestern University
+author: Robert Luo
+author_email: robertluo@u.northwestern.edu
