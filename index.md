@@ -1,7 +1,7 @@
 # Abstract
 
 ## About the Author
-This project was completed by Robert Luo, an Applied Mathematics student at Northwestern University (graduating Spring 2018). Please feel free to send comments or feedback to robertluo@u.northwestern.edu. An in-depth report of this project can be downloaded in the .zip file linked above. [download](https://robertluo2018.github.io/Yelp-Restaurant-Recommender/project_proposal_RobertLuo.pdf)
+This project was completed by Robert Luo, an Applied Mathematics student at Northwestern University (graduating Spring 2018). Please feel free to send comments or feedback to robertluo@u.northwestern.edu. An in-depth report of this project can be downloaded [here](https://robertluo2018.github.io/Yelp-Restaurant-Recommender/project_proposal_RobertLuo.pdf).
 
 
 ## About the Project
