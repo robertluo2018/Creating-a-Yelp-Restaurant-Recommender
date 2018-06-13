@@ -29,7 +29,7 @@ Although these results are not stellar, it is promising that we can predict user
 The figure below shows the K-NN performance evaluated against the validation set with a range of K values, where metrics are calculated from classifications of: rating above 4 = "High", rating below 4 = "Low".
 
 
-![knn_performance](https://robertluo2018.github.io/Yelp-Restaurant-Recommender/knn_validation_data.png)
+![knn_performance](https://robertluo2018.github.io/Predicting-Yelp-Ratings/knn_validation_data.png)
 
 Although the accuracy of prediction is not stellar, we must also consider precision and recall. Precision is the ability of the classifier to not incorrectly label an observation positive that is actually negative. It is important to have a high precision score in order to not recommend a would-be-low-rated-restaurant to a user. Recall is the ability of the classifier to find all the positive samples. A recommender with a high recall score is able to recommend users most of the restaurants he or she would rate highly. 
 
