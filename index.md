@@ -1,7 +1,7 @@
 # Abstract
 
 ## About the Author
-This project was completed by Robert Luo, an Applied Mathematics student at Northwestern University (graduating Spring 2018). Please feel free to send comments or feedback to robertluo@u.northwestern.edu. An in-depth report of this project can be downloaded [here](https://robertluo2018.github.io/Yelp-Restaurant-Recommender/project_proposal_RobertLuo.pdf).
+This project was completed by Robert Luo, an Applied Mathematics student at Northwestern University (graduating Spring 2018). Please feel free to send comments or feedback to robertluo@u.northwestern.edu. An in-depth report of this project can be downloaded [here](https://robertluo2018.github.io/Predicting-Yelp-Ratings/NUeecs349_predicting_yelp_ratings.pdf).
 
 
 ## About the Project
@@ -27,9 +27,10 @@ User-Item CF root-mean-squared error and mean-absolute-error are:
 Although these results are not stellar, it is promising that we can predict user ratings off of similarity measures. 
 
 The figure below shows the K-NN performance evaluated against the validation set with a range of K values, where metrics are calculated from classifications of: rating above 4 = "High", rating below 4 = "Low".
-<p align="center">
-  <img src="https://robertluo2018.github.io/Yelp-Restaurant-Recommender/knn_validation_data.png">
-</p>
+
+
+![alt text](https://robertluo2018.github.io/Yelp-Restaurant-Recommender/knn_validation_data.png)
+
 Although the accuracy of prediction is not stellar, we must also consider precision and recall. Precision is the ability of the classifier to not incorrectly label an observation positive that is actually negative. It is important to have a high precision score in order to not recommend a would-be-low-rated-restaurant to a user. Recall is the ability of the classifier to find all the positive samples. A recommender with a high recall score is able to recommend users most of the restaurants he or she would rate highly. 
 
 It can be observed that the K-NN CF model achieves high recall at K = 20. At this point, accuracy has plateaud and precision has begun to decrease. With a preference for high recall score, I chose K = 20 as the optimal K.
