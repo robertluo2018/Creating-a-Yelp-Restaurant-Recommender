@@ -1,8 +1,10 @@
-# About the Author
-This project was completed by Robert Luo, an Applied Mathematics student at Northwestern University (graduating Spring 2018). Please feel free to send comments or feedback to robertluo@u.northwestern.edu. An in-depth report of this project can be downloaded here. 
-
 # Abstract
 
+## About the Author
+This project was completed by Robert Luo, an Applied Mathematics student at Northwestern University (graduating Spring 2018). Please feel free to send comments or feedback to robertluo@u.northwestern.edu. An in-depth report of this project can be downloaded here. 
+
+
+## About the Project
 Yelp is an online platform where users can submit reviews about restaurants and businesses. A business' Yelp rating and its written reviews can attract or repel visitors, and consequently determine the success of the business. Many consumers depend on Yelp as well. In today's day and age, access to crowd-sourced reviews can highly influence consumer decisions on what stores to shop at and restaurants to dine in. A model that can predict when a Yelp reviewer will rate a restaurant highly (4 or 5 stars) can serve as a valuable recommender system, increasing user engagement and retention as well as customer traffic to new restaurants.
 
 This project evaluates the performance of User-Item Collaborative Filtering, Item-Item Collaborative Filtering, and K-Nearest Neighbor Collaborative Filtering in predicting Yelp user ratings of restaurants in the United States.
