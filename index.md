@@ -1,5 +1,9 @@
-## Welcome to GitHub Pages
-## [a relative link](about.md)
+# About the Author
+This project was completed by Robert Luo, an Applied Mathematics student at Northwestern University. Please feel free to send comments or feedback to robertluo@u.northwestern.edu.
+
+# Abstract
+
+
 You can use the [editor on GitHub](https://github.com/robertluo2018/EECS-349-Final-Project/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
